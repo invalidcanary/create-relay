@@ -1,4 +1,4 @@
-### Randall Vogsland, Presidio
+### @InvalidCanary
 ### properly creates a relay connector to allow for anonymous relay to external recipients, relaxes common throttles
 ### Parameters:  Server, Name for the connector to be created, fqdn to assign
 
